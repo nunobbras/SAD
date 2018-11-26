@@ -14,6 +14,7 @@ matplotlib = "*"
 rise = "*"
 sklearn = "*"
 graphviz = "*"
+nbconvert = "*"
 
 [dev-packages]
 
